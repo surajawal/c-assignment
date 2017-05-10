@@ -1,3 +1,7 @@
 What do you expect from the training course we are about to begin?
 
-Actually this is not the first time I have overlooked JAVA. I have learned JAVA core basics before myself. Through this course I want to move forward to advance my JAVA career through the advanced JAVA course. JAVA, as one of the popular and dominating language in the current market, it is my choice to flow along with JAVA along with the programming language that I am using currently i.e. Python for my future advancement in my career.
+Actually this is not the first time I have overlooked JAVA. I have learned JAVA core basics before myself.
+Through this course I want to move forward to advance my JAVA career through the advanced JAVA course. 
+JAVA, as one of the popular and dominating language in the current market, it is my choice to flow along 
+with JAVA along with the programming language that I am using currently i.e. Python for my future 
+advancement in my career.
